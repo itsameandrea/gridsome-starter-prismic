@@ -2,8 +2,7 @@ require("dotenv").config()
 
 module.exports = {
   templates: {
-    // Add templates for content types here.
-    // Read more: https://gridsome.org/docs/templates/
+    PrismicPost: "/posts/:slug"
   },
   plugins: [
     {
@@ -15,4 +14,4 @@ module.exports = {
       }
     }
   ]
-}
+};

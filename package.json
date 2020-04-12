@@ -6,7 +6,7 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@ilrock/gridsome-source-prismic": "^1.0.0",
+    "@ilrock/gridsome-source-prismic": "file:../gridsome_prismic_plugin",
     "dotenv": "^8.2.0",
     "gridsome": "^0.7.0"
   }
