@@ -24,4 +24,4 @@ module.exports = {
 }
 ```
 
-Once you import your Prismic documents, be sure to add them as templates when needed as documeted [here](https://github.com/ilrock/gridsome-source-prismic)
+Once you import your Prismic documents, be sure to add them as templates when needed as documented [here](https://github.com/ilrock/gridsome-source-prismic)
